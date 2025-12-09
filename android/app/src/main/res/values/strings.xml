@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">TimetableApp</string>
-    <string name="title_activity_main">TimetableApp</string>
+    <string name="app_name">BCA lab Timetable</string>
+    <string name="title_activity_main">BCA lab Timetable</string>
     <string name="package_name">com.example.timetable</string>
     <string name="custom_url_scheme">com.example.timetable</string>
 </resources>
